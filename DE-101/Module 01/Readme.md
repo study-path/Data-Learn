@@ -17,3 +17,8 @@ Using the provided dataset (Sample - Superstore.xls), the following tasks were c
  - Generated sample reports
 
  - Designed interactive dashboards
+
+
+![Dashboard](./Dashboard.png)
+
+![Dashboard by Profit](./Dashboard%20profit.png)
