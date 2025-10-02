@@ -2,15 +2,18 @@
 
 ## Installing GitHub and Creating a Repository
 
-At the start of the Data Learn course, I already had a GitHub profile, so I created a new repository where the solutions to each module’s homework will be organized in folders.
+At the beginning of the Data Learn course, I already had a GitHub profile and was familiar with some functionality. 
+Therefore, I created a new repository, where the solutions for each module will be stored in separate folders.
 
 
-## Using the data in Sample - Superstore.xls, do the following:
+## Tasks with Sample - Superstore.xls
 
-	- Use lookup functions
+Using the provided dataset (Sample - Superstore.xls), the following tasks were completed:
 
-	- Build PivotTables
+ - Applied lookup functions
 
-	- Create sample reports
+ - Built PivotTables
 
-	- Design dashboards
+ - Generated sample reports
+
+ - Designed interactive dashboards
